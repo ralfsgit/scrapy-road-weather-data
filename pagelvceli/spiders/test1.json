@@ -1,0 +1,5 @@
+[
+{"precipitation": ["nav"], "air_temperature_trend": ["-0.2"], "dew_point": ["-9"], "freezing_point2": ["0"], "road_warning1": ["nav"], "road_warning2": ["nav"], "freezing_point1": ["0"], "intensity": ["0"], "visibility": ["2000"], "road_temperature1_trend": ["-0.8"], "road_temperature2_trend": ["-1.1"], "air_temperature": ["-1.4"], "time": ["15:05"], "road_condition2": ["sauss"], "air_humidity": ["56"], "station_name": "A1 km 9 Ādaži", "road_temperature2": ["2.3"], "road_condition1": ["sauss"], "road_temperature1": ["3"]}
+][
+{"precipitation": ["nav"], "air_temperature_trend": ["0"], "dew_point": ["-9"], "freezing_point2": ["0"], "road_warning1": ["nav"], "road_warning2": ["nav"], "freezing_point1": ["0"], "intensity": ["0"], "visibility": ["2000"], "road_temperature1_trend": ["-1.1"], "road_temperature2_trend": ["-1.5"], "air_temperature": ["-1.2"], "time": ["15:15"], "road_condition2": ["sauss"], "air_humidity": ["55"], "station_name": "A1 km 9 Ādaži", "road_temperature2": ["2"], "road_condition1": ["sauss"], "road_temperature1": ["2.7"]}
+]
